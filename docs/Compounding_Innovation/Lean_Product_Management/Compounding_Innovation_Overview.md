@@ -1,4 +1,4 @@
-# Compounding Information Overview
+# Compounding Innovation Overview
 
 ![Implementing the Compounding Innovation exponential accelerator at scale](../img/Compounding-Innovation.jpg)
 
