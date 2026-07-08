@@ -8,7 +8,7 @@ This module extends the AccelRR8 Framework, which is the conceptual foundation f
 
 Below is a collection of stories that comprise the Compounding Innovation module of the AccelRR8 Framework:
 
-- [Compounding Innovation Overview](./Lean_Product_Management/Compounding_Innovation_Overview.md)
+- [Compounding Innovation Overview](./Compounding_Innovation_Overview.md)
 - [Implementing Lean Product Management at Scale](./Lean_Product_Management/Implementing_Lean_Product_Management_at_Scale.md)
 - [Orient Enterprise Leaders](./Lean_Product_Management/Orient_Enterprise_Leaders.md)
 - [Learn with one Product](./Lean_Product_Management/Learn_with_one_Product.md)

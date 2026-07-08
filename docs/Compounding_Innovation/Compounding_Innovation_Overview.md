@@ -1,6 +1,6 @@
 # Compounding Innovation Overview
 
-![Implementing the Compounding Innovation exponential accelerator at scale](../img/Compounding-Innovation.jpg)
+![Implementing the Compounding Innovation exponential accelerator at scale](./img/Compounding-Innovation.jpg)
 
 Anyone fortunate enough to be able to invest a little money in a savings account understands the value of compounding interest over many days, months, or even years. Substituting an individual investor with an enterprise and a savings account with an investment in innovation over many months, quarters, or years may yield exponential returns on that investment due to compounding innovation.
 

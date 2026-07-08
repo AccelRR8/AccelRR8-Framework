@@ -6,12 +6,11 @@
 ? start a folder name with "?c " to make it show up as collapsed
 
 index
-Rocket_To_Your_Aspirations/
-  Rocket_To_Your_Aspirations
+Rocket_To_Your_Aspirations
 Compounding_Innovation/
-  Compounding_Innovation
+  Compounding_Innovation_Contents
+  Compounding_Innovation_Overview
   Lean_Product_Management/
-    Compounding_Innovation_Overview
     Implementing_Lean_Product_Management_at_Scale
     Orient_Enterprise_Leaders
     Learn_with_one_Product
