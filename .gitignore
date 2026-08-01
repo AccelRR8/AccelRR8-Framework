@@ -1,0 +1,41 @@
+# ==========================================
+# Obsidian Core Configuration (Recommended)
+# ==========================================
+# Exclude daily workspace layouts, active tabs, and caches to prevent Git conflicts.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backlink.json
+
+# ==========================================
+# Optional: Choose ONE of the Strategies Below
+# ==========================================
+
+# STRATEGY A: Sync absolute minimum (Notes only, no plugins/themes)
+# Un-comment the line below if you want EVERY device to manage its own plugins.
+# .obsidian/
+
+# STRATEGY B: Ignore heavy plugin dependencies but sync settings
+# Use these if you want plugins and themes to sync, but skip their junk data.
+.obsidian/plugins/*/*.log
+.obsidian/plugins/*/data.json.bak
+.obsidian/cache/
+
+# ==========================================
+# Operating System & IDE Trash
+# ==========================================
+# macOS clutter
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows clutter
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# External Editors (VS Code, Vim, etc.)
+.vscode/
+.idea/
+*.swp
+*~
