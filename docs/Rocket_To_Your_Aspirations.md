@@ -2,11 +2,21 @@
 
 ![](./img/rocket-to-your-aspirations.webp)
 
-The AccelRR8 Framework is an actionable tool that helps enterprising leaders use proven accelerators to generate exponentially better products, services, financials, and inspiration.
+The AccelRR8 Framework is an actionable tool that helps enterprising leaders use proven accelerators to generate exponentially better products, services, financials, and inspiration.  
+
+Visit the [index](./index.md) page to dive deeper into the AccelRR8 Framework. Read on for a brief overview.
+
+## Accelerating the benefits of your change initiative
 
 We imagine the AccelRR8 Framework as an engine leaders can use to rocket to their aspirations. A rocket applies a force to its payload while it burns, accelerating its velocity faster and faster, and lifting it exponentially higher and higher off the ground.
 
 Like a rocket, the AccelRR8 Framework is packed with accelerators. Strap it to your change initiative and watch its velocity accelerate and its benefits climb exponentially higher.
+
++ **_Launch_** your change initiative and rocket skyward
+- **_Climb_** through the challenges you’ll face as you scale
+- **_Soar_** to success higher and faster than you thought possible
+
+## Example:  Accelerating the benefits of AI
 
 For example, many leaders are trying to help their enterprises leverage Artificial Intelligence. The AccelRR8 Framework can help them go faster and achieve greater benefits when they harness its proven accelerators:
 
@@ -15,6 +25,8 @@ For example, many leaders are trying to help their enterprises leverage Artifici
 - Use **Viral Ideation** to share AI ideas across the entire ecosystem with exponential speed and reach, and **Reward Participation** in AI ideation to overcome the fear and insecurity network participants often experience when sharing their ideas with large communities
 - Use **Generative Learning** to improve enterprise productivity exponentially, and **Train Practitioners** in the community on proven ways to align activity and learning across teams to avoid teams tripping all over one another
 - And finally, use **Artificial Intelligence** itself to boost the effectiveness and benefit of all the above accelerators, and encourage everyone to **Experiment and Practice** with AI to increase the enterprise’s AI skills and expertise.
+
+## Why it works
 
 Artificial Intelligence is just one example of a change initiative the AccelRR8 Framework can boost like a rocket. It can similarly boost Digital Transformation, IT Modernization, Cloud Adoption, Cybersecurity, Product Development, and many other change initiatives.
 

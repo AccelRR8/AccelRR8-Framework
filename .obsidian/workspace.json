@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
+                "file": "docs/Rocket_To_Your_Aspirations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compounding_Innovation_Overview"
+              "title": "Rocket_To_Your_Aspirations"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,7 +187,9 @@
   },
   "active": "6d3cbc5785262159",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Rocket_To_Your_Aspirations.md",
     "docs/Compounding_Innovation/Compounding_Innovation_Contents.md",
-    "docs/index.md"
+    "docs/Compounding_Innovation/Compounding_Innovation_Overview.md"
   ]
 }
