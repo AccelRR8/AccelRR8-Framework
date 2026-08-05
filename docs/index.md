@@ -2,7 +2,7 @@
 
 ![The AccelRR8 Framework helps enterprising leaders harness proven accelerators to grow value exponentially at scale](./img/accelrr8-framework.webp)
 
-The AccelRR8 Framework iis an actionable tool that helps leaders use proven methods to generate exponentially better products, services, financials, and inspiration in complex, large scale enterprises and ecosystems.
+The AccelRR8 Framework is an actionable tool that helps leaders use proven methods to generate exponentially better products, services, financials, and inspiration in complex, large scale enterprises and ecosystems.
 
 ## Using the AccelRR8 Framework
 
