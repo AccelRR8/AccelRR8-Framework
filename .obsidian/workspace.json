@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Grow_Value_Exponentially.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Grow_Value_Exponentially"
             }
           }
         ]
@@ -187,7 +187,9 @@
   },
   "active": "6d3cbc5785262159",
   "lastOpenFiles": [
+    "docs/Rocket_To_Your_Aspirations.md",
     "docs/Grow_Value_Exponentially.md",
+    "docs/index.md",
     "docs/img/GVE_1.11.jpeg",
     "docs/img/GVE_1.10.jpeg",
     "docs/img/GVE_1.9.jpeg",
@@ -198,12 +200,10 @@
     "docs/img/GVE_1.4.jpeg",
     "docs/img/GVE_1.3.jpeg",
     "docs/img/GVE_1.2.jpeg",
-    "docs/index.md",
     "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
     "docs/Compounding_Innovation/Compounding_Innovation_Contents.md",
     "docs/Viral_Ideation/Viral_Ideation.md",
     "docs/Network_Effects/Network_Effects.md",
-    "docs/Generative_Learning/Generative_Learning.md",
-    "docs/Rocket_To_Your_Aspirations.md"
+    "docs/Generative_Learning/Generative_Learning.md"
   ]
 }
