@@ -11,7 +11,7 @@ The AccelRR8 Framework iis an actionable tool that helps leaders use proven meth
 
 ## Harnessing Proven Accelerators
 
-- [Compounding Innovation](./Compounding_Innovation/Compounding_Innovation_Contents.md)
+- [Compounding Innovation](./Compounding_Innovation/Compounding_Innovation_Overview.md)
 - [Network Effects](./Network_Effects/Network_Effects.md)
 - [Viral Ideation](./Viral_Ideation/Viral_Ideation.md)
 - [Generative Learning](./Generative_Learning/Generative_Learning.md)

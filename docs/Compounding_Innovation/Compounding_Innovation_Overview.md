@@ -2,6 +2,23 @@
 
 ![Implementing the Compounding Innovation exponential accelerator at scale](./img/Compounding-Innovation.jpg)
 
+The Compounding Innovation module of the AccelRR8 Framework helps enterprising leaders Accelerate Exponential Returns on Investment at scale.
+
+This module extends the AccelRR8 Framework, which is an actionable tool that helps leaders use proven methods to generate exponentially better products, services, financials, and inspiration in complex, large scale enterprises and ecosystems.
+
+# Module Contents
+
+Below is a collection of stories that comprise the Compounding Innovation module of the AccelRR8 Framework:
+
+- [Compounding Innovation Overview](./Compounding_Innovation_Overview.md)
+- [Implementing Lean Product Management at Scale](./Lean_Product_Management/Implementing_Lean_Product_Management_at_Scale.md)
+	- [Orient Enterprise Leaders](./Lean_Product_Management/Orient_Enterprise_Leaders.md)
+	- [Learn with one Product](./Lean_Product_Management/Learn_with_one_Product.md)
+	- [Scale Learnings Across the Portfolio](./Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md)
+	- [Excel with Composability and Continuous Innovation](./Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md)
+
+# Key Concepts
+
 Anyone fortunate enough to be able to invest a little money in a savings account understands the value of compounding interest over many days, months, or even years. Substituting an individual investor with an enterprise and a savings account with an investment in innovation over many months, quarters, or years may yield exponential returns on that investment due to compounding innovation.
 
 OpenAI ChatGPT4’s AI summarized compounding innovation in this way:

@@ -8,7 +8,6 @@
 index
 Rocket_To_Your_Aspirations
 Compounding_Innovation/
-  Compounding_Innovation_Contents
   Compounding_Innovation_Overview
   Lean_Product_Management/
     Implementing_Lean_Product_Management_at_Scale
