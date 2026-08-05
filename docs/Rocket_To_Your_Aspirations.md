@@ -13,8 +13,8 @@ We imagine the AccelRR8 Framework as an engine leaders can use to rocket to thei
 Like a rocket, the AccelRR8 Framework is packed with accelerators. Strap it to your change initiative and watch its velocity accelerate and its benefits climb exponentially higher.
 
 + **_Launch_** your change initiative and rocket skyward
-- **_Climb_** through the challenges you’ll face as you scale
-- **_Soar_** to success higher and faster than you thought possible
++ **_Climb_** through the challenges you’ll face as you scale
++ **_Soar_** to success higher and faster than you thought possible
 
 ## Example:  Accelerating the benefits of AI
 
