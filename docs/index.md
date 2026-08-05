@@ -7,7 +7,7 @@ The AccelRR8 Framework is an actionable tool that helps leaders use proven metho
 ## Using the AccelRR8 Framework
 
 - [Rocket to your Aspirations](./Rocket_To_Your_Aspirations.md)
-- Grow Value - and Valuation - Exponentially (coming soon)
+- [Grow Value - and Valuation - Exponentially](./Grow_Value_Exponentially.md)
 
 ## Harnessing Proven Accelerators
 
