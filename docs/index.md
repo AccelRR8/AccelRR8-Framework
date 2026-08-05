@@ -6,7 +6,7 @@ The AccelRR8 Framework is the conceptual foundation for the AccelRR8 Consortium 
 
 ## Using the AccelRR8 Framework
 
-- [Rocket to your Aspirations](./Rocket_To-Your_Aspirations.md)
+- [Rocket to your Aspirations](./Rocket_To_Your_Aspirations.md)
 - Grow Value - and Valuation - Exponentially (coming soon)
 
 ## Harnessing Proven Accelerators
