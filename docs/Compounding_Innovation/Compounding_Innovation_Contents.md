@@ -10,7 +10,7 @@ Below is a collection of stories that comprise the Compounding Innovation module
 
 - [Compounding Innovation Overview](./Compounding_Innovation_Overview.md)
 - [Implementing Lean Product Management at Scale](./Lean_Product_Management/Implementing_Lean_Product_Management_at_Scale.md)
-- [Orient Enterprise Leaders](./Lean_Product_Management/Orient_Enterprise_Leaders.md)
-- [Learn with one Product](./Lean_Product_Management/Learn_with_one_Product.md)
-- [Scale Learnings Across the Portfolio](./Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md)
-- [Excel with Composability and Continuous Innovation](./Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md)
+	- [Orient Enterprise Leaders](./Lean_Product_Management/Orient_Enterprise_Leaders.md)
+	- [Learn with one Product](./Lean_Product_Management/Learn_with_one_Product.md)
+	- [Scale Learnings Across the Portfolio](./Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md)
+	- [Excel with Composability and Continuous Innovation](./Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md)
