@@ -36,7 +36,7 @@ Every product that serves many customers starts with a **Concept**. It’s wise 
 
 From that point, future releases will aid the product version’s **Growth** in value for customers and the enterprise until it inevitably begins declining, ideally as it is replaced by the next version of the product. Further releases help the enterprise support the product version’s **Legacy** customers until the enterprise decides to **Sunset** its support for that version.
 
-While some product releases are simple enough for one person to produce, many are produced by teams who perform Define, **Build**, **Test**, and **Release** functions organized in one or more **Development Value Streams** that continuously deliver innovation to customers as the product evolves.
+While some product releases are simple enough for one person to produce, many are produced by teams who perform **Design**, **Make**, **Test**, and **Release** functions organized into one or more **Development Value Streams** that continuously deliver innovation to customers as the product evolves.
 
 ## Maximize desirability and viability with configurable products
 

@@ -38,7 +38,7 @@ When an enterprise’s leaders understand how their decisions ultimately impact 
 
 ## Understanding Product Design Considerations
 
-The components of a product’s value relate directly to its design considerations. As described in the [“Solution” article published by the Scaled Agile Framework](https://scaledagileframework.com/solution/), a solution (product) has four fundamental properties: Desirability, Viability, Feasibility, and Sustainability.
+The components of a product’s value relate directly to its design considerations. The DVF framework, often expanded to DVFS, has emerged in the design community as a way of describing a product's key properties: Desirability, Viability, Feasibility, and Sustainability.
 
 In a customer-centric product orientation, the most important of these is desirability. If the product isn’t **desirable**, no customers are willing to pay anything for it, which means there is also no value for the producer or its employees and suppliers. On the other hand if the product is very desirable, customers will be more than willing to pay a fair price and then some, which means they retain a surplus of customer value.
 
