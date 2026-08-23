@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Compounding_Innovation/Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md",
+                "file": "docs/Compounding_Innovation/Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scale_Learnings_Across_the_Portfolio"
+              "title": "Excel_with_Composability_and_Continuous_Innovation"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "6d3cbc5785262159",
   "lastOpenFiles": [
+    "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
+    "docs/Compounding_Innovation/Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md",
     "docs/Compounding_Innovation/Lean_Product_Management/Learn_with_one_Product.md",
     "docs/Compounding_Innovation/Lean_Product_Management/img/coordinate-continuous-innovation-product-portfolio.png",
     "docs/Compounding_Innovation/Lean_Product_Management/img/coordinate-continuous-innovation-product-portfolio-old.png",
@@ -203,7 +205,6 @@
     "docs/img/GVE_1.3.jpg",
     "docs/img/GVE_1.2.jpg",
     "docs/Rocket_To_Your_Aspirations.md",
-    "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
     "docs/Compounding_Innovation/Compounding_Innovation_Contents.md",
     "docs/Viral_Ideation/Viral_Ideation.md",
     "docs/Network_Effects/Network_Effects.md",

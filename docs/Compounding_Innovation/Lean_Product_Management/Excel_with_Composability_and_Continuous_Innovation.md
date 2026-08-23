@@ -34,7 +34,7 @@ The Enterprise Product Architecture is constrained by the overall Enterprise Arc
 
 In an enterprise with a Holding Company Operating Model, the CPO / CIO may act as the operational CPO / CIO for multiple subsidiaries, devoting a fraction of their time to each. In an Operating Company, the CPO / CIO has a considerable opportunity to shape much of the overall Enterprise Architecture because Lean Portfolio Management becomes the beating heart of the enterprise’s management system as it matures.
 
-In doing so, it’s wise for CPO / CIO’s to remember Conway’s Law — systems match the hierarchical structure of the organizations that design them. This is a brilliant insight that leads directly to the notion of Composable Businesses, described in [Gartner’s 2020 Symposium keynote](https://www.gartner.com/smarterwithgartner/gartner-keynote-the-future-of-business-is-composable).
+In doing so, it’s wise for CPO / CIO’s to remember Conway’s Law — systems match the hierarchical structure of the organizations that design them. This is a brilliant insight that leads directly to the notion of Composable Businesses, described in Gartner’s 2020 Symposium keynote.
 
 As Cloud / IaaS, PaaS, SaaS, and even Business-Process-as-a-Service (BPaaS) wash over the world, complex enterprises are increasingly “made from interchangeable building blocks”. Per Gartner this gives enterprises “more speed through discovery, greater agility through modularity, better leadership through orchestration, and resilience through autonomy.”
 
