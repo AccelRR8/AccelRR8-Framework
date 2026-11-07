@@ -21,17 +21,17 @@ Although it evolves continuously to keep pace with the incredible advances we se
 
 ## Evolving the AccelRR8 Framework
 
-We're on a never-ending journey to make the AccelRR8 Framework as helpful as possible to enterprising leaders who are striving to grow value exponentially.  
-
-We welcome all contributions and suggestions!  Feel free to:
+We're on a never-ending journey to make the AccelRR8 Framework as helpful as possible to enterprising leaders who are striving to grow value exponentially.  We welcome all contributions and suggestions!  Feel free to:
 - submit pull requests in our Github repository 
-- engage in discussions through the [AccelRR8 Consortium NonProfit](https://accelrr8.org) - which for example provides Discord channels for each of the accelerators: 
+- engage in discussions through the [AccelRR8 Consortium NonProfit](https://accelrr8.org) 
+ 
+The AccelRR8 Consortium NonProfit provides Discord channels for each of the accelerators: 
 
-	- [Compounding Innovation Discord Channel](https://discord.gg/wGA8YzzBgX)
-	- [Network Effects Discord Channel](https://discord.gg/ph3afKBAsm)
-	- [Viral Ideation Discord Channel](https://discord.gg/QWnFvfdcSn)
-	- [Generative Learning Discord Channel](https://discord.gg/6dj8KztNTs)
-	- [Artificial Intelligence Discord Channel](https://discord.gg/7ByWsXfQaX)
+- [Compounding Innovation Discord Channel](https://discord.gg/wGA8YzzBgX)
+- [Network Effects Discord Channel](https://discord.gg/ph3afKBAsm)
+- [Viral Ideation Discord Channel](https://discord.gg/QWnFvfdcSn)
+- [Generative Learning Discord Channel](https://discord.gg/6dj8KztNTs)
+- [Artificial Intelligence Discord Channel](https://discord.gg/7ByWsXfQaX)
 
 ## Navigation
 
