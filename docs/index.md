@@ -25,7 +25,7 @@ We're on a never-ending journey to make the AccelRR8 Framework as helpful as pos
 - submit pull requests in our Github repository 
 - engage in discussions through the [AccelRR8 Consortium NonProfit](https://accelrr8.org) 
  
-The AccelRR8 Consortium NonProfit provides Discord channels for each of the accelerators: 
+For example, the AccelRR8 Consortium NonProfit provides Discord channels for each of the accelerators: 
 
 - [Compounding Innovation Discord Channel](https://discord.gg/wGA8YzzBgX)
 - [Network Effects Discord Channel](https://discord.gg/ph3afKBAsm)
