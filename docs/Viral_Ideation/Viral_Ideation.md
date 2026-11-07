@@ -6,7 +6,7 @@ Everyone in the world viscerally understands viral growth having just lived thro
 
 While nobody wants viral diseases, we all (often, but not always) benefit when ideas spread virally throughout the networks to which we are connected. News of the pandemic spread faster than the disease itself, helping us to prepare for it. As they began to treat infected patients, the medical community shared their learnings with one another, ultimately improving patient outcomes.
 
-OpenAI’s ChatGPT4 AI summarized viral ideation in this way:
+OpenAI's ChatGPT LLM summarized viral ideation in this way:
 - **Rationale**: Rapid and broad sharing among individuals through word of mouth and social networks, leading to user base expansion, enhanced brand awareness, and reduced customer acquisition costs.
 - **Mathematical Basis**: Exponential growth models like \\(N(t) = N_0 \cdot e^{(r \cdot t)}\\), where a viral coefficient greater than one can lead to exponential user base growth.
 

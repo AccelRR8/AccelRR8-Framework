@@ -4,7 +4,7 @@
 
 If you use the popular professional networking site LinkedIn, you understand the value of network effects. Why aren’t there other professional networking sites? Because it’s so hard for another provider to create value sufficient to entice a critical mass of professionals to switch to their site. Why? Because everyone is already on LinkedIn.
 
-OpenAI ChatGPT4’s AI summarized network effects in this way:
+OpenAI's ChatGPT LLM AI summarized network effects in this way:
 - **Rationale**: Increases in users or participants in a network increase the value of the network for each user, promoting user acquisition and engagement.
 - **Mathematical Basis**: Metcalfe’s Law, represented by the value (V) of a network being proportional to the square of the number of connected users (n), or \\(V \propto n²\\).
 

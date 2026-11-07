@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Viral_Ideation/Viral_Ideation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Viral_Ideation"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ChatGPT4",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,12 +188,15 @@
   },
   "active": "6d3cbc5785262159",
   "lastOpenFiles": [
+    "docs/Network_Effects/Network_Effects.md",
+    "docs/Generative_Learning/Generative_Learning.md",
+    "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
+    "docs/Artificial_Intelligence/Artificial_Intelligence.md",
+    "docs/index.md",
     "assets/index-DlQQH3wc.css",
     "assets/index-BQdvOQhV.js",
     "docs/Viral_Ideation/Viral_Ideation.md",
-    "docs/index.md",
     "docs/Compounding_Innovation/Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md",
-    "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
     "docs/Compounding_Innovation/Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md",
     "docs/Compounding_Innovation/Lean_Product_Management/Learn_with_one_Product.md",
     "docs/Compounding_Innovation/Lean_Product_Management/img/coordinate-continuous-innovation-product-portfolio.png",
@@ -209,8 +213,6 @@
     "docs/img/GVE_1.3.jpg",
     "docs/img/GVE_1.2.jpg",
     "docs/Rocket_To_Your_Aspirations.md",
-    "docs/Compounding_Innovation/Compounding_Innovation_Contents.md",
-    "docs/Network_Effects/Network_Effects.md",
-    "docs/Generative_Learning/Generative_Learning.md"
+    "docs/Compounding_Innovation/Compounding_Innovation_Contents.md"
   ]
 }

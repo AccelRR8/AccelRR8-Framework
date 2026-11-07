@@ -8,7 +8,7 @@ While individual prowess plays an important role in teams, even the best individ
 
 With teams as with individuals, the more you learn the better you get — and the faster you learn the faster you get better. The best teams outperform other teams because they learn more faster — exponentially faster.
 
-OpenAI’s ChatGPT4 AI summarized agile team-of-teams learning in this way:
+OpenAI's ChatGPT LLM summarized agile team-of-teams learning in this way:
 - **Rationale**: Enhances speed, flexibility, and collaboration, optimizing the software development lifecycle, reducing time-to-market, and enabling rapid adaptations to market needs.
 - **Mathematical Basis**: Conceptualized through principles of efficiency, optimization, and enhanced productivity, with improvements in one cycle serving as the base for the next, akin to iterative functions like \\(O_{n+1} = O_n + Δ\\).
 

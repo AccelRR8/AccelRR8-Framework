@@ -21,7 +21,7 @@ Below is a collection of stories that comprise the Compounding Innovation module
 
 Anyone fortunate enough to be able to invest a little money in a savings account understands the value of compounding interest over many days, months, or even years. Substituting an individual investor with an enterprise and a savings account with an investment in innovation over many months, quarters, or years may yield exponential returns on that investment due to compounding innovation.
 
-OpenAI ChatGPT4’s AI summarized compounding innovation in this way:
+OpenAI's ChatGPT LLM summarized compounding innovation in this way:
 - **Rationale**: Continuous reinvestment of returns fuels further growth by compounding improvements and innovations over time, enabling the scaling of operations and revenues.
 - **Mathematical Basis**: Compound growth formula, \\(A = P(1 + r)^n\\), where the gains from one period serve as the principal for the next, leading to exponential growth.
 
