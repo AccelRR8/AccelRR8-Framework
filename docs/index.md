@@ -21,8 +21,10 @@ Although it evolves continuously to keep pace with the incredible advances we se
 
 ## Evolving the AccelRR8 Framework
 
-We're on a never-ending journey to make the AccelRR8 Framework as helpful as possible to enterprising leaders who are striving to grow value exponentially.  We welcome all contributions and suggestions!  Feel free to:
-- submit pull requests in our Github repository 
+We're on a never-ending journey to make the AccelRR8 Framework as helpful as possible to enterprising leaders who are striving to grow value exponentially.  We welcome all contributions and suggestions!  
+
+Feel free to:
+- submit pull requests in our [Github repository](https://github.com/AccelRR8/AccelRR8-Framework) 
 - engage in discussions through the [AccelRR8 Consortium NonProfit](https://accelrr8.org) 
  
 For example, the AccelRR8 Consortium NonProfit provides Discord channels for each of the accelerators: 
