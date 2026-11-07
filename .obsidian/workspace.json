@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Compounding_Innovation/Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel_with_Composability_and_Continuous_Innovation"
+              "title": "index"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "6d3cbc5785262159",
   "lastOpenFiles": [
+    "docs/Viral_Ideation/Viral_Ideation.md",
+    "docs/index.md",
+    "docs/Compounding_Innovation/Lean_Product_Management/Excel_with_Composability_and_Continuous_Innovation.md",
     "docs/Compounding_Innovation/Compounding_Innovation_Overview.md",
     "docs/Compounding_Innovation/Lean_Product_Management/Scale_Learnings_Across_the_Portfolio.md",
     "docs/Compounding_Innovation/Lean_Product_Management/Learn_with_one_Product.md",
@@ -198,7 +201,6 @@
     "docs/Compounding_Innovation/Lean_Product_Management/img/learn.webp",
     "docs/Compounding_Innovation/Lean_Product_Management/Orient_Enterprise_Leaders.md",
     "docs/Grow_Value_Exponentially.md",
-    "docs/index.md",
     "docs/Grow_Value_Exponentially.pptx",
     "docs/img/GVE_1.3.jpeg",
     "docs/img/GVE_1.2.jpeg",
@@ -206,7 +208,6 @@
     "docs/img/GVE_1.2.jpg",
     "docs/Rocket_To_Your_Aspirations.md",
     "docs/Compounding_Innovation/Compounding_Innovation_Contents.md",
-    "docs/Viral_Ideation/Viral_Ideation.md",
     "docs/Network_Effects/Network_Effects.md",
     "docs/Generative_Learning/Generative_Learning.md"
   ]
